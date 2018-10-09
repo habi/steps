@@ -1,4 +1,4 @@
 pandas
 seaborn
-dateutil
+dateutil.relativedelta
 calendar
